@@ -46,7 +46,7 @@
 1. All previous points must run on Android and iOS
 
 <a name="functional"></a>
-## Functional requirements
+## 2. Functional requirements
 Can be skipped in PoC
 
 1. Client can log in
@@ -61,7 +61,7 @@ Can be skipped in PoC
 8. Client can find his order on order list
 
 <a name="nonfunctional"></a>
-## Non-functional requirements
+## 3. Non-functional requirements
 
 1. Use of some universal styles, for example [Materialize CSS](https://materializecss.com/)
 2. Application will inform that is working in offline mode and cannot  proceed
