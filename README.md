@@ -1,1 +1,1 @@
-# all-suppliers
+# AllSuppliers
